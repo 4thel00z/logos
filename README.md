@@ -6,6 +6,12 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### dwlnd
+
+Logo for [dwnld](https://github.com/4thel00z/dwnld)
+
+![dwnld.png](https://raw.githubusercontent.com/4thel00z/logos/master/dwnld.png)
+
 ### devm
 
 Logo for [devm](https://github.com/4thel00z/devm)
