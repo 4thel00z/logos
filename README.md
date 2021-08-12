@@ -6,6 +6,13 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+
+### splitvid
+
+Logo for [splitvid](https://github.com/4thel00z/splitvid)
+
+![splitvid.png](https://raw.githubusercontent.com/4thel00z/logos/master/splitvid.png)
+
 ### libsniff
 
 Logo for [libsniff](https://github.com/4thel00z/libsniff)
