@@ -7,6 +7,13 @@ Dumpyard for quick off logos that I use for my projets.
 ## Logos
 
 
+### cry.h
+
+Logo for [cry.h](https://github.com/4thel00z/cry.h)
+
+![cry-h.png](https://raw.githubusercontent.com/4thel00z/logos/master/cry-h.png)
+
+
 ### splitvid
 
 Logo for [splitvid](https://github.com/4thel00z/splitvid)
