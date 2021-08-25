@@ -39,7 +39,7 @@ Logo for [dwnld](https://github.com/4thel00z/dwnld)
 
 ### hproc
 
-Logo for [hrpoc](https://github.com/4thel00z/hproc)
+Logo for [hproc](https://github.com/4thel00z/hproc)
 
 ![hproc.png](https://raw.githubusercontent.com/4thel00z/logos/master/hproc.png)
 
