@@ -6,6 +6,11 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### hadith.json.png
+
+Logo for [hadith.json.png](https://github.com/4thel00z/hadith.json)
+
+![hadith.json.png](https://raw.githubusercontent.com/4thel00z/logos/master/hadith.json.png)
 
 ### cry.h
 
