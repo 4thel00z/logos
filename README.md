@@ -6,6 +6,12 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### crackwifi
+
+Logo for the [crackwifi](https://github.com/4thel00z/crackwifi) library.
+
+![crackwifi.png](https://raw.githubusercontent.com/4thel00z/logos/master/crackwifi.png)
+
 ### hadith.json.png
 
 Logo for [hadith.json.png](https://github.com/4thel00z/hadith.json)
