@@ -6,6 +6,13 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### notifyme
+
+Logo for the [notifyme](https://github.com/4thel00z/notifyme) project.
+
+![notifyme.png](https://raw.githubusercontent.com/4thel00z/logos/master/notifyme.png)
+
+
 ### crackwifi
 
 Logo for the [crackwifi](https://github.com/4thel00z/crackwifi) library.
