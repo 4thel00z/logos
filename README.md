@@ -6,6 +6,12 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### dizzle
+
+Logo for the [dizzle](https://github.com/4thel00z/dizzle) project.
+
+![dizzle.png](https://raw.githubusercontent.com/4thel00z/logos/master/dizzle.png)
+
 ### statez
 
 Logo for the [statez](https://github.com/4thel00z/statez) project.
