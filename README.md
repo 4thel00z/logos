@@ -6,6 +6,13 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+
+### torry
+
+Logo for the [torry](https://github.com/4thel00z/torry) project.
+
+![torry.png](https://raw.githubusercontent.com/4thel00z/logos/master/torry.png)
+
 ### notifyme
 
 Logo for the [notifyme](https://github.com/4thel00z/notifyme) project.
