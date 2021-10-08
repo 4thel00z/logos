@@ -6,6 +6,11 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### statez
+
+Logo for the [statez](https://github.com/4thel00z/statez) project.
+
+![statez.png](https://raw.githubusercontent.com/4thel00z/logos/master/statez.png)
 
 ### torry
 
