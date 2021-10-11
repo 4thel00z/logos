@@ -6,6 +6,13 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+### templatectl
+
+Logo for the [templatectl](https://github.com/4thel00z/templatectl) project.
+
+![templatectl.png](https://raw.githubusercontent.com/4thel00z/logos/master/templatectl.png)
+
+
 ### dizzle
 
 Logo for the [dizzle](https://github.com/4thel00z/dizzle) project.
