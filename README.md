@@ -6,6 +6,14 @@ Dumpyard for quick off logos that I use for my projets.
 
 ## Logos
 
+
+### evilstuff
+
+Logo for the [evilstuff](https://github.com/evilstuff) organisation.
+
+![evilstuff.png](https://raw.githubusercontent.com/4thel00z/logos/master/evilstuff.png)
+
+
 ### templatectl
 
 Logo for the [templatectl](https://github.com/4thel00z/templatectl) project.
