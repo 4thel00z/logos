@@ -7,6 +7,13 @@ Dumpyard for quick off logos that I use for my projets.
 ## Logos
 
 
+### ukhti.shop
+
+Logo for the [ukhti.shop](https://github.com/ukhti.shop) organisation.
+
+![ukhti.shop.png](https://raw.githubusercontent.com/4thel00z/logos/master/ukhti.shop.png)
+
+
 ### evilstuff
 
 Logo for the [evilstuff](https://github.com/evilstuff) organisation.
