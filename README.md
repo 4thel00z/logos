@@ -9,7 +9,7 @@ Dumpyard for quick off logos that I use for my projets.
 
 ### ukhti.shop
 
-Logo for the [ukhti.shop](https://github.com/ukhti.shop) organisation.
+Logo for the [ukhti.shop](https://github.com/ukhti-shop) organisation.
 
 ![ukhti.shop.png](https://raw.githubusercontent.com/4thel00z/logos/master/ukhti.shop.png)
 
