@@ -108,6 +108,12 @@ Logo for my upcoming youtube channel.
 
 ![ransomware.png](https://raw.githubusercontent.com/4thel00z/logos/master/ransomware.png)
 
+### sug
+
+Logo for [sug](https://github.com/4thel00z/sug)
+
+![sug.png](https://raw.githubusercontent.com/4thel00z/logos/master/sug.png)
+
 ## License
 
 This project is licensed under the GPL-3 license.
