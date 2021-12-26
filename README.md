@@ -114,6 +114,13 @@ Logo for [sug](https://github.com/4thel00z/sug)
 
 ![sug.png](https://raw.githubusercontent.com/4thel00z/logos/master/sug.png)
 
+### billbot
+
+Logo for [billbot](https://github.com/4thel00z/billbot)
+
+![billbot.png](https://raw.githubusercontent.com/4thel00z/logos/master/billbot.png)
+
+
 ## License
 
 This project is licensed under the GPL-3 license.
