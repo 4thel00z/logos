@@ -120,6 +120,13 @@ Logo for [billbot](https://github.com/4thel00z/billbot)
 
 ![billbot.png](https://raw.githubusercontent.com/4thel00z/logos/master/billbot.png)
 
+### consult.sh
+
+Logo for [consult.sh](https://github.com/consult-sh)
+
+![consult.sh.png](https://raw.githubusercontent.com/4thel00z/logos/master/consult.sh.png)
+
+
 
 ## License
 
