@@ -126,6 +126,12 @@ Logo for [consult.sh](https://github.com/consult-sh)
 
 ![consult.sh.png](https://raw.githubusercontent.com/4thel00z/logos/master/consult.sh.png)
 
+### schnelltest25.de
+
+Logo for [schnelltest25.de](https://schnelltest25.de)
+
+![schnelltest25.png](https://raw.githubusercontent.com/4thel00z/logos/master/schnelltest25.png)
+
 
 
 ## License
