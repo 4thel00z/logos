@@ -132,6 +132,11 @@ Logo for [schnelltest25.de](https://schnelltest25.de)
 
 ![schnelltest25.png](https://raw.githubusercontent.com/4thel00z/logos/master/schnelltest25.png)
 
+### crypticalertbot
+
+Logo for crypticalertbot
+
+![crypticalertbot.png](https://raw.githubusercontent.com/4thel00z/logos/master/crypticalertbot.png)
 
 
 ## License
