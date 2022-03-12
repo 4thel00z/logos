@@ -138,6 +138,14 @@ Logo for crypticalertbot
 
 ![crypticalertbot.png](https://raw.githubusercontent.com/4thel00z/logos/master/crypticalertbot.png)
 
+### fakenews
+
+Logo for fakenews
+
+![fakenews.png](https://raw.githubusercontent.com/4thel00z/logos/master/fakenews.png)
+
+
+
 
 ## License
 
