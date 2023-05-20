@@ -163,6 +163,11 @@ Logo for parkme
 ![parkme.png](https://raw.githubusercontent.com/4thel00z/logos/master/parkme.png)
 
 
+### HAQ
+
+Logo for HAQ
+
+![haq.png](https://raw.githubusercontent.com/4thel00z/logos/master/haq.app.png)
 
 
 ## License
